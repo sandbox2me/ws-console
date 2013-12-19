@@ -1,0 +1,1 @@
+eval(WScript.StdIn.ReadLine());
