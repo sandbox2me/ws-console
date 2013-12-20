@@ -1,7 +1,8 @@
 ws-console
 ==========
 
-Remote JScript & VBScript code execution tool based on <a href="https://github.com/joewalnes/websocketd">websocketd</a>.
+Remote JScript & VBScript code execution tool based on <a href="https://github.com/joewalnes/websocketd">websocketd</a>.<br/>
+<b>Warning:</b> Running this on a system allows a system to be remotely controlled without authorization. Ensure it only runs on a private trusted network.
 
 How to
 ----------
