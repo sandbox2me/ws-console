@@ -1,7 +1,7 @@
 ws-console
 ==========
 
-Remote JScript & VBScript code execution tool based on websocket, <a href="https://github.com/joewalnes/websocketd">websocketd</a> is required.
+Remote JScript & VBScript code execution tool based on <a href="https://github.com/joewalnes/websocketd">websocketd</a>.
 
 How to
 ----------
