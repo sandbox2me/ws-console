@@ -12,6 +12,6 @@ Create <a href="https://github.com/dab00/ws-console/blob/master/console.cmd">con
 <a href="https://github.com/dab00/ws-console/blob/master/console.js">console.js</a> (for JScript) or 
 <a href="https://github.com/dab00/ws-console/blob/master/console.vbs">console.vbs</a> (for VBScript). <br/>
 <a href="http://dab00.gweb.io/WS-console.html">Open ws-console</a>, copy your code and execute it:<br/>
-<a href="https://github.com/dab00/ws-console/blob/master/screenshot.jpg" target="_blank">
-<img src="https://github.com/dab00/ws-console/blob/master/screenshot.jpg" alt="screenshot" style="max-width:100%;">
+<a href="https://github.com/dab00/ws-console/raw/master/screenshot.jpg" target="_blank">
+<img src="https://github.com/dab00/ws-console/raw/master/screenshot.jpg" alt="screenshot" style="max-width:100%;">
 </a>
