@@ -1,7 +1,8 @@
 ws-console
 ==========
 
-Remote JScript & VBScript code execution tool based on <a href="https://github.com/joewalnes/websocketd">websocketd</a>.
+Remote JScript & VBScript code execution tool based on <a href="https://github.com/joewalnes/websocketd">websocketd</a>.<br/>
+<b>Warning:</b> Running this on a system allows a system to be remotely controlled without authorization. Ensure it only runs on a private trusted network.
 
 How to
 ----------
@@ -15,3 +16,5 @@ Create <a href="https://github.com/dab00/ws-console/blob/master/console.cmd">con
 <a href="https://github.com/dab00/ws-console/raw/master/screenshot.jpg" target="_blank">
 <img src="https://github.com/dab00/ws-console/raw/master/screenshot.jpg" alt="screenshot" style="max-width:100%;">
 </a>
+<br/>
+<a href="http://www.daspot.ru/2013/12/websocket.html">Read details...</a>
