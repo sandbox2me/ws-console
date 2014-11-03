@@ -7,7 +7,7 @@ Remote JScript & VBScript code execution tool based on <a href="https://github.c
 How to
 ----------
 
-To get started <a href="https://github.com/joewalnes/websocketd/wiki/Download-and-install">download websocketd</a>, I'd recommend v0.2.8).
+To get started <a href="https://github.com/joewalnes/websocketd/wiki/Download-and-install">download websocketd</a>, I'd recommend <a href="http://download.websocketd.com/releases/websocketd/0.2.8/windows_amd64/websocketd.exe">v0.2.8</a>.
 
 Create <a href="https://github.com/dab00/ws-console/blob/master/console.cmd">console.cmd</a> and 
 <a href="https://github.com/dab00/ws-console/blob/master/console.js">console.js</a> (for JScript) or 
