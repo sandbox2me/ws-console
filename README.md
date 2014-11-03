@@ -7,14 +7,19 @@ Remote JScript & VBScript code execution tool based on <a href="https://github.c
 How to
 ----------
 
-To get started, <a href="https://github.com/joewalnes/websocketd/wiki/Download-and-install">download websocketd</a> and run it:
-<pre>websocketd --port 8081 console.cmd</pre>
+To get started <a href="https://github.com/joewalnes/websocketd/wiki/Download-and-install">download websocketd</a>, I'd recommend v0.2.8).
+
 Create <a href="https://github.com/dab00/ws-console/blob/master/console.cmd">console.cmd</a> and 
 <a href="https://github.com/dab00/ws-console/blob/master/console.js">console.js</a> (for JScript) or 
-<a href="https://github.com/dab00/ws-console/blob/master/console.vbs">console.vbs</a> (for VBScript). <br/>
-<a href="https://googledrive.com/host/0B0YcK5KeNe1tMngtVkduNnBpams/WS-console.html">Open ws-console</a>, copy your code and execute it:<br/>
+<a href="https://github.com/dab00/ws-console/blob/master/console.vbs">console.vbs</a> (for VBScript).
+
+Run app:
+<pre>websocketd --port 8081 console.cmd</pre>
+
+<a href="https://dab00.gweb.io/WS-console.html">Open ws-console</a>, copy your code and execute it:
+
 <a href="https://github.com/dab00/ws-console/raw/master/screenshot.jpg" target="_blank">
 <img src="https://github.com/dab00/ws-console/raw/master/screenshot.jpg" alt="screenshot" style="max-width:100%;">
 </a>
-<br/>
+
 <a href="http://www.daspot.ru/2013/12/websocket.html">Read details...</a>
